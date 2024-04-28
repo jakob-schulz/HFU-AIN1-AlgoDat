@@ -21,12 +21,13 @@ public class BruchTest {
         }
         System.out.println("Teilaufgabe 2 (12 Wdh.): " + summe.get());
         // Erwartetes Ergebnis: 86021/27720
-        Bruch e = e(8);
+        BruchTest t = new BruchTest();
+        Bruch e = t.e(8);
         System.out.println("Die Eulersche Zahl e angenaehert: " + e.get());
     }
 
-    //Ab n=9 annaeherung falsch, weil Zahlen zu groß werden. Static wird benoetigt, weil die main-Methode auch static ist
-    private static Bruch e(int n) {
+    //Ab n=9 annaeherung falsch, weil Zahlen zu groß werden.
+    private Bruch e(int n) {
         Bruch summe = new Bruch(1, 1);
         for (int anzahl = 1; anzahl <= n; anzahl++) {
             //Berechnen des Nenners, also der Fakultaet

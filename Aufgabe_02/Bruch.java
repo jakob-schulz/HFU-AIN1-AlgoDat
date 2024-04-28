@@ -2,7 +2,7 @@ public class Bruch {
     private int nenner;
     private int zaehler;
 
-    int ggT(int a, int b) {
+    private int ggT(int a, int b) {
         a = Math.abs(a); //Der Betrag wird erstellt, damit auch negative Zahlen behandelt werden können
         b = Math.abs(b);
         if (b > a) {
@@ -16,7 +16,7 @@ public class Bruch {
         }
     }
 
-    void kuerzen() {
+    private void kuerzen() {
         // kuerzen der Zaehler und der Nenner
         int ggt = ggT(zaehler, nenner);
         nenner = nenner / ggt;
