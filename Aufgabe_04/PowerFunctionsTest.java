@@ -1,6 +1,6 @@
 public class PowerFunctionsTest {
     public static void main(String[] args) {
-        int calculations = 1000; //Anzahl der Berechnungen
+        int calculations = 10000; //Anzahl der Berechnungen
         int allExponents = 0; //speichert Summe aller Exponenten
         int allPower = 0; //speichert Summe aller Multiplikationen von Power
         int allFastPower = 0; //speichert Summe aller Multiplikationen von fastPower

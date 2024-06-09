@@ -1,3 +1,5 @@
+package Aufgabe_01;
+
 //Klasse, welche die Klasse RestrictedCounter testet
 public class RestrictedCounterTest {
     public static void main(String[] args) {

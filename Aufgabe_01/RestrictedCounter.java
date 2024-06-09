@@ -1,3 +1,5 @@
+package Aufgabe_01;
+
 //Ein Counter, welcher zusätzlich die maximale Kapazität speichert
 public class RestrictedCounter extends Counter //Die Klasse RestrictedCounter wird von der Klasse Counter abgeleitet
 {

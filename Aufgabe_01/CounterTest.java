@@ -1,3 +1,5 @@
+package Aufgabe_01;
+
 public class CounterTest {
     public static void main(String[] args) {
         testing();

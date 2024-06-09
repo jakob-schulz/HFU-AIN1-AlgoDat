@@ -1,3 +1,5 @@
+package Aufgabe_01;
+
 public class Counter {
     private int count; // Zaehlerstand
     private int savedCount;

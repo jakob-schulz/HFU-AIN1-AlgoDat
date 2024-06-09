@@ -1,3 +1,4 @@
+import Aufgabe_01.Counter;
 
 public class PowerFunctions {
     private static Counter countPower = new Counter(); //Zaehlt Anzahl der Multiplikationen in power
