@@ -1,3 +1,5 @@
+package Aufgabe_06.uebung6_Vorgaben;
+
 
 public interface Schein {
    public double getLaenge();

@@ -1,3 +1,5 @@
+package Aufgabe_02;
+
 public class Bruch {
     private int nenner;
     private int zaehler;

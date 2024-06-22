@@ -1,3 +1,5 @@
+package Aufgabe_05;
+
 public class Sortierung {
     public static void mergesort(Comparable[] x) { // Objekte, deren Klassen das Interface Comparable implementieren
                                                    // koennen hier sortiert werden?
@@ -34,7 +36,7 @@ public class Sortierung {
                 }
                 break;
             }
-            // ist rechter array einsortiert kann linker array uebernomme werden
+            // ist rechter array einsortiert kann linker array uebernommen werden
             if (rpos == r.length) {
                 for (; lpos < l.length; lpos++) {
                     x[pos] = l[lpos];

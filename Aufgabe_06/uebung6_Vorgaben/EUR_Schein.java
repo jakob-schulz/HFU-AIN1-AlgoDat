@@ -1,3 +1,5 @@
+package Aufgabe_06.uebung6_Vorgaben;
+
 public class EUR_Schein extends EUR implements Schein {
 	private eigenschaften x;
 		

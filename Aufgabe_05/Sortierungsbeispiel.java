@@ -1,3 +1,5 @@
+package Aufgabe_05;
+
 public class Sortierungsbeispiel {
     public static void main(String[] args) {
         Integer[] a = { 15, 3, 8, 9, 20, 70, 4, 6 };

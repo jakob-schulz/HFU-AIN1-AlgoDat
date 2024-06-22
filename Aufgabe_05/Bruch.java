@@ -1,3 +1,5 @@
+package Aufgabe_05;
+
 public class Bruch implements Comparable<Bruch>{
     private int zaehler;
     private int nenner;

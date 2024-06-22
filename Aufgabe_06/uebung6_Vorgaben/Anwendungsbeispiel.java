@@ -1,3 +1,6 @@
+package Aufgabe_06.uebung6_Vorgaben;
+import Aufgabe_05.Sortierung;
+
 public class Anwendungsbeispiel {
    public static void main(String[] args) {
       /*
@@ -54,7 +57,7 @@ public class Anwendungsbeispiel {
       }
       System.out.println("Aufgabenteil 2:\nBetraege: " + euro + " EUR, " + franken + " SFR, " + dollar + " USD");
 
-      // Gesamtgewicht aller Muenzein und Gesamtflaeche aller Banknoten berechnen (Aufgabenteil 3)
+      // Gesamtgewicht aller Muenzen und Gesamtflaeche aller Banknoten berechnen (Aufgabenteil 3)
       double gewichtMuenzen = 0;
       double flaecheScheine = 0;
       for (int i = 0; i < geld.length; i++) {

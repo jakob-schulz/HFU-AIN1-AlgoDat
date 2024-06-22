@@ -1,3 +1,5 @@
+package Aufgabe_04;
+
 import Aufgabe_01.Counter;
 
 public class PowerFunctions {

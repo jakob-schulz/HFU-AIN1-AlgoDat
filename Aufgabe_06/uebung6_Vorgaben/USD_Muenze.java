@@ -1,5 +1,7 @@
+package Aufgabe_06.uebung6_Vorgaben;
 
-class USD_Muenze extends USD implements Muenze {
+
+public class USD_Muenze extends USD implements Muenze {
 	private eigenschaften x;
 		
 	public USD_Muenze(double wert) {

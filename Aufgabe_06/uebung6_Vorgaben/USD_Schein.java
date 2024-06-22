@@ -1,3 +1,5 @@
+package Aufgabe_06.uebung6_Vorgaben;
+
 
 public class USD_Schein extends USD implements Schein {
 	private eigenschaften x;

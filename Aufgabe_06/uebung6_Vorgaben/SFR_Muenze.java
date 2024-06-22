@@ -1,3 +1,5 @@
+package Aufgabe_06.uebung6_Vorgaben;
+
 
 public class SFR_Muenze extends SFR implements Muenze {
 	private eigenschaften x;

@@ -1,3 +1,5 @@
+package Aufgabe_06.uebung6_Vorgaben;
+
 public class SFR_Schein extends SFR implements Schein{
 	private eigenschaften x;
 			

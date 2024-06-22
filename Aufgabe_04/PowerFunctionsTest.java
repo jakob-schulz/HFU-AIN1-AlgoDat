@@ -1,3 +1,5 @@
+package Aufgabe_04;
+
 public class PowerFunctionsTest {
     public static void main(String[] args) {
         int calculations = 10000; //Anzahl der Berechnungen

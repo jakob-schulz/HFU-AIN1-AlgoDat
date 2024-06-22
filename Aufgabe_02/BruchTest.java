@@ -1,3 +1,5 @@
+package Aufgabe_02;
+
 public class BruchTest {
     public static void main(String[] args) {
         Bruch x = new Bruch(1, 2);

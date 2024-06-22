@@ -1,3 +1,4 @@
+package Aufgabe_06.uebung6_Vorgaben;
 
 public interface Muenze {
    public double getGewicht();

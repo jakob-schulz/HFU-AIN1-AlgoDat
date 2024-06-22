@@ -1,3 +1,5 @@
+package Aufgabe_03;
+
 public class Textanalyse {
     public static void main(String[] args) {
         int argcount = args.length; // Zaehlt die Anzahl der Argumente

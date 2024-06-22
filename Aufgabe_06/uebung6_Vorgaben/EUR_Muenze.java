@@ -1,5 +1,6 @@
+package Aufgabe_06.uebung6_Vorgaben;
 
-class EUR_Muenze extends EUR implements Muenze {
+public class EUR_Muenze extends EUR implements Muenze {
 	private eigenschaften x;
 
 	public EUR_Muenze(double wert) {
